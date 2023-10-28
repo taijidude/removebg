@@ -1,0 +1,11 @@
+= Remove Background 
+
+== Overview 
+
+This is the beginning of a project where i want to use the python module rembg to remove the background fron images automatically. 
+
+https://github.com/danielgatis/rembg
+
+== Todo 
+
+* [ ] I want to use this with my image upscale project. 
